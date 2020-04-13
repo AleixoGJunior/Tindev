@@ -1,4 +1,4 @@
-# AirCnC
+# Tindev
 
 Projeto desenvolvido durante a Semana Omnistack 8.0
 
