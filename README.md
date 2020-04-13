@@ -37,7 +37,7 @@ _Todos os comandos listados a seguir devem ser executados dentro do terminal._
 2. Altere o IP na api do axios e na conexão do socket para o seu ip local.
 
 3. Abra o emulador de sua preferência ou conecte seu celular via USB.
-_Tenha certeza de possuir o ambiente configurado para isso, caso vã utilizar um emulador. Qualquer dúvida acesse https://react-native.rocketseat.dev/_
+_Tenha certeza de possuir o ambiente configurado para isso, caso vá utilizar um emulador. Qualquer dúvida acesse https://react-native.rocketseat.dev/_
 
 4. Execute o aplicação com o comando:
 
